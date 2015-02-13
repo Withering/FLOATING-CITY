@@ -1,0 +1,27 @@
+	{ 
+		
+		"philae_ship_frigate_opteris": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   29, 45  ,  15, 53  ,  27, 22  ,  36, 28  ,  37, 38  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   8, 22  ,  15, 53  ,  8, 50  ,  0, 39  ,  0, 30  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   15, 53  ,  29, 45  ,  29, 50  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   15, 53  ,  8, 22  ,  16, 0  ,  20, 0  ,  27, 22  ]
+				}  
+		]
+		
+	}
